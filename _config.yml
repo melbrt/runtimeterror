@@ -1,7 +1,7 @@
 theme: movie arcs
 title: ADA Template Website
 description: team RuntimeTerror
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
